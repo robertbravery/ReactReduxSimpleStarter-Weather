@@ -1,6 +1,6 @@
 # ReduxSimpleStarter
 
-This is a clone from Stephen Grider's repository and a compeltion of his udemy course "Modern React with Redux"
+This is a clone from Stephen Grider's repository and a part compeltion of his udemy course "Modern React with Redux"
 
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
 
